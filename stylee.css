@@ -1,0 +1,178 @@
+ /* this part sir is my the styles.  */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.first-div-top{
+    height: 50px;
+    width:100%;
+    background-color: rgb(20, 94, 121);
+    border: 1px solid black;
+    display: flex;
+    gap: 8px;
+}
+#imgcntnr{
+    height: 100%;
+    width: 5%;
+    display: flex;
+    /* background-color: brown; */
+    justify-content: center;
+    align-items: center;
+}
+#OIP{
+    height: 40px;
+    width: 40px;
+}
+
+#td{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    /* background-color: yellow; */
+    height: 100%;
+}
+
+#secdiv{
+    height: 5vh;
+    width: 100%;
+    background-color: rgb(240, 243, 248);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.indiv2{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.indiv2:hover{
+    background-color: rgb(191, 222, 233);
+}
+
+#re{
+    height: 88vh;
+    width: 100%;
+    background-color:rgb(233, 213, 188);
+    
+  
+}
+
+#container-inside-cbtn{
+    background-color: red;
+    height: 80vh;
+    width: 85vw;
+    
+}
+
+
+
+.au{
+    text-decoration: none;
+    color: black;
+}
+
+#third-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh;
+    width: 100%;
+    background-color: rgb(233, 213, 188);
+}
+#inside-the-thirddiv{
+    height: 75vh;
+    width: 45%;
+    background-color: rgb(231, 190, 139);
+    border: 1px solid black;
+    
+}
+#text-inside-the-thirddiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(249, 169, 72);
+    height: 20vh;
+    width: 100%;
+}
+
+#text2-inside-the-thirddiv{
+    background-color: rgb(238, 183, 116);
+    width: 100%;
+    height: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+#tasktext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fe{
+    background-color: rgb(232, 200, 161);
+    width: 100%;
+    border: 1px solid black;
+}
+
+table {
+  border: 1px solid black;
+  width: 100vw;
+  height: 60vh;
+}
+
+.table__row td{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.td-buttons{
+    height: 100%;
+    width: 80%;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+#delete-button{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 70%;
+}
+#edit-button{
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+    height: 70%;
+}
+#completed-button{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    height: 70%;
+}
+
+.class-deco{
+    text-decoration: none;
+    color: white;
+}
+
+#td-delete{
+    max-width: 50vh;
+}
+
+
+
+
+
+ 
+
+
+/* add padding to the third ddiv , change the color, change the fonts. */
+
