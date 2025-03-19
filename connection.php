@@ -1,5 +1,5 @@
 <?php
-//this part sir is my stablish my connection to the database, pinahaba lang pero kaya ng 1 line lang hahaha
+//this part sir is my where i stablish my connection to the database, pinahaba lang pero kaya ng 1 line lang hahaha
 $servername = "localhost";
 $username = "root";
 $password = "";
